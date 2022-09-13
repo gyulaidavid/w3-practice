@@ -1,0 +1,68 @@
+div {
+    background-color: rgb(45, 4, 4);
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  div > div {
+    background-color: rgb(69, 7, 7);
+    height: 90vh;
+    width: 90vh;
+  }
+  
+  div > div > div {
+    background-color: rgb(97, 28, 28);
+    height: 80vh;
+    width: 80vh;
+  }
+  
+  div > div > div > div {
+    background-color: rgb(167, 48, 48);
+    height: 70vh;
+    width: 70vh;
+  }
+  
+  div > div > div > div > div {
+    background-color: rgb(190, 99, 43);
+    height: 60vh;
+    width: 60vh;
+  }
+  
+  div > div > div > div > div > div {
+    background-color: rgb(205, 146, 91);
+    height: 50vh;
+    width: 50vh;
+  }
+  
+  div > div > div > div > div > div > div {
+    background-color: rgb(195, 188, 51);
+    height: 40vh;
+    width: 40vh;
+  }
+  
+  div > div > div > div > div > div > div > div {
+    background-color: rgb(234, 242, 15);
+    height: 30vh;
+    width: 30vh;
+  }
+  
+  div > div > div > div > div > div > div > div > div {
+    background-color: rgb(243, 241, 152);
+    height: 20vh;
+    width: 20vh;
+  }
+  
+  div > div > div > div > div > div > div > div > div > div {
+    background-color: rgb(136, 59, 15);
+    height: 10vh;
+    width: 10vh;
+  }
+  
+  .pos-fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
