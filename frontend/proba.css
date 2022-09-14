@@ -102,11 +102,6 @@ div > div > div > div > div > div > div > div > div > div {
   border-top-left-radius: 30%;
   border-top-right-radius: 30%;
 }
-/* body > div,
-.most-inner {
-  box-sizing: border-box;
-  border: 20px solid rgb(0, 0, 0);
-} */
 
 .most-inner:hover {
   background-color: white;
