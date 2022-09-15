@@ -35,4 +35,5 @@ function loadEvent() {
   rootElement.insertAdjacentHTML("beforeend", "Hello World");
 }
 
-window.addEventListener("click", loadEvent);
+window.addEventListener("load", loadEvent); 
+// load lehet click is. akkor kattintásra jelenik meg.
